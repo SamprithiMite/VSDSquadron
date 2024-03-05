@@ -3,8 +3,9 @@
 Gray code is a kind of binary number system where only one bit will change at a time. Today gray code is widely used in the digital world. 
 It will be helpful for error correction and signal transmission. 
 The Gray counter is also useful in design and verification in the VLSI domain.
+  
+![Screenshot 2024-02-27 051919](https://github.com/SamprithiMite/VSDSquadron/assets/160505353/d75be9f0-3332-4ad8-b137-cbe5f9197f6a)
 
-![s1](https://github.com/SamprithiMite/VSDSquadron/assets/160505353/2136a51f-db03-4c41-8f99-d4932c0860eb)
 
 ## Applications of gray code counter
 
